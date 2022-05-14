@@ -22,6 +22,7 @@ chmod +x $HOME/.config/polybar/launch.sh
 chmod +x $HOME/.config/bspwm/bspwmrc
 chmod +x $HOME/.config/sxhkd/sxhkdrc
 chmod +x $HOME/.config/picom/picom.conf
+chmod +x  ~/.config/polybar/scripts/*
 
 #Polybar Fonts 
 sudo cp polybar/fonts/* /usr/share/fonts/truetype/
