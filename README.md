@@ -9,7 +9,7 @@
 ![Escaneo IP 1](https://github.com/conde26/Entorno-Escritorio/blob/main/images/screen2.png)
 
 ### Instalación 
-Para instalar el entorno de escritorio debemos seguir los siguientes pasos.
+Para instalar el entorno debemos ejecutar, los siguiente comandos. 
 
 ```bash
 git clone https://github.com/conde26/Entorno-Escritorio
