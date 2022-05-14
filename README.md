@@ -2,8 +2,6 @@
 
 - [Review del entorno](#review-del-entorno)
 - [Instalación](#instalación)
-- [Atajos de teclado](#atajos-de-teclado)
-
 
 ### Review del entorno 
 ![Escaneo IP 1](https://github.com/conde26/Entorno-Escritorio/blob/main/images/screen.png)
