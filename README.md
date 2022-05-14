@@ -19,5 +19,8 @@ cd Entorno-Escritorio
 chmod +x setup.sh
 ./setup.sh
 ```
-Una vez que el script termina y reinicia, debemos selecionar en la ventana de incio de sesión bspwm y verems el sigueinte resultado: 
+
+Una vez que el script termina y reinicia, debemos selecionar en la ventana de incio de sesión bspwm. Es importante
+que cuando entres en la terminal, selecciones tu perfil, y elimines la barra de estado, la barra de desplazamiento
+y que seleciones el tipo de fuente de letra la **Hack nerd fonts mono regular** para que los iconos se vean bien.
 
