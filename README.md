@@ -13,7 +13,5 @@ cd Entorno-Escritorio
 chmod +x setup.sh
 ./setup.sh
 ```
-
-
-### Atajos de teclado 
+Una vez que el script termina y reinicia, debemos selecionar en la ventana de incio de sesión bspwm y verems el sigueinte resultado: 
 
