@@ -20,4 +20,5 @@ chmod +x setup.sh
 
 Una vez que el script termina y reinicia, debemos selecionar en la ventana de inicio de sesión **bspwm**. Es importante
 que cuando entres en la terminal, selecciones tu perfil, y elimines la barra de estado, la barra de desplazamiento
-y que seleciones el tipo de fuente de letra la **Hack nerd fonts mono regular** para que los iconos se vean bien.
+y que seleciones el tipo de fuente de letra la **Hack nerd fonts mono regular** para que los iconos se vean bien. Se ha testeado
+en ParrotOS 5 y Kali Linux 2022. 
